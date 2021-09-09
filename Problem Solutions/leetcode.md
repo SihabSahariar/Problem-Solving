@@ -2,6 +2,7 @@
   - [35. Search Insert Position] - https://ideone.com/3XCoLK
   - [344. Reverse String] - https://ideone.com/3cHmEp
   - [1351. Count Negative Numbers in a Sorted Matrix] - https://ideone.com/h3250L or https://ideone.com/h0KHow (Using Binary Search) 
+  - [977. Squares of a Sorted Array] - https://ideone.com/qOUxDq (Bruteforce) or https://ideone.com/xgI4LZ (Two pointer)
 ### Medium
   - [33. Search in Rotated Sorted Array] - https://ideone.com/vFiuMq
   - [34. Find First and Last Position of Element in Sorted Array] - https://ideone.com/H7Jbff

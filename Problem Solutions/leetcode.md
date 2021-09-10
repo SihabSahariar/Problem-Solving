@@ -1,6 +1,7 @@
 ### Easy
   - [35. Search Insert Position] - https://ideone.com/3XCoLK
   - [344. Reverse String] - https://ideone.com/3cHmEp
+  - [367. Valid Perfect Square] - https://ideone.com/z1N3yY
   - [1351. Count Negative Numbers in a Sorted Matrix] - https://ideone.com/h3250L or https://ideone.com/h0KHow (Using Binary Search) 
   - [977. Squares of a Sorted Array] - https://ideone.com/qOUxDq (Bruteforce) or https://ideone.com/xgI4LZ (Two pointer)
 ### Medium

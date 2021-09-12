@@ -1,4 +1,5 @@
 ### Easy
+  - [1. Two Sum] - https://ideone.com/roqgwk
   - [35. Search Insert Position] - https://ideone.com/3XCoLK
   - [278. First Bad Version] - https://ideone.com/R8Q6TN
   - [344. Reverse String] - https://ideone.com/3cHmEp

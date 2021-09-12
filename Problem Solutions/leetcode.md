@@ -1,5 +1,6 @@
 ### Easy
   - [35. Search Insert Position] - https://ideone.com/3XCoLK
+  - [278. First Bad Version] - https://ideone.com/R8Q6TN
   - [344. Reverse String] - https://ideone.com/3cHmEp
   - [367. Valid Perfect Square] - https://ideone.com/z1N3yY
   - [704. Binary Search] - https://ideone.com/5owF2S

@@ -4,6 +4,7 @@
   - [278. First Bad Version] - https://ideone.com/R8Q6TN
   - [344. Reverse String] - https://ideone.com/3cHmEp
   - [367. Valid Perfect Square] - https://ideone.com/z1N3yY
+  - [387. First Unique Character in a String] - https://ideone.com/rdUMUM
   - [704. Binary Search] - https://ideone.com/5owF2S
   - [977. Squares of a Sorted Array] - https://ideone.com/qOUxDq (Bruteforce) or https://ideone.com/xgI4LZ (Two pointer)
   - [1200. Minimum Absolute Difference] - https://ideone.com/hXRAHu (Double Pass) or https://ideone.com/tveJol (Single Pass)

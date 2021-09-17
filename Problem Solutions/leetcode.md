@@ -14,4 +14,5 @@
   - [34. Find First and Last Position of Element in Sorted Array] - https://ideone.com/H7Jbff
   - [137. Single Number II] - https://ideone.com/en6yUh
   - [153. Find Minimum in Rotated Sorted Array] - https://ideone.com/aolZ6m
+  - [204. Count Primes] - https://ideone.com/d3IKsb
 

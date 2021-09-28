@@ -34,7 +34,7 @@ void ranged_seive(int l , int r){
         if(start<l) start+=curr_prime;
         
         for(int j = start;j<=r;j+=start){ // going to r and flagging the multiples of prime number.
-            mp_prm[j-l] = false; // storing the value by shifting j-l (start -l)
+            mp_prm[j-l] = false; // storing the value by left shifting (l) ; 
         }
         if(start==curr_prime) mp_prm[start-l] = true; //starting is current prime, keep it as true
         
@@ -42,7 +42,7 @@ void ranged_seive(int l , int r){
     
     for(int i=0;i<sz;i++)
     {
-        if(mp_prm[i])cout<<i+l<<" "; // adding l everytime as we shifted to -l 
+        if(mp_prm[i])cout<<i+l<<" "; // adding l everytime as we left shifted 
     }
     cout<<endl;
 }

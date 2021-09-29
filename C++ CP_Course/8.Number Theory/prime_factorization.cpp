@@ -54,6 +54,21 @@ void PrimeFactors(int n){
     
 }
 
+void PrimeFactors2(int x){
+    set<ll>ans;
+    int d = 2;
+    while(x>1){
+        while(x%d==0){
+            ans.insert(d);
+            x/=d;
+        }
+        d++;
+    }
+    
+    for(auto j = ans.begin(); j != ans.end();j++)cout<<*j<<" ";
+    cout<<endl; 
+}
+
 int main()
 {
    seive();

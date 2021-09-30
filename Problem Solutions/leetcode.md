@@ -16,4 +16,5 @@
   - [153. Find Minimum in Rotated Sorted Array] - https://ideone.com/aolZ6m
   - [204. Count Primes] - https://ideone.com/d3IKsb
   - [650. 2 Keys Keyboard] - https://ideone.com/8qYvtm
+  - [1492. The kth Factor of n] - https://ideone.com/cYdQ1e
 

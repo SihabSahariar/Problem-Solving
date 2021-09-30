@@ -69,6 +69,20 @@ void PrimeFactors2(int x){
     cout<<endl; 
 }
 
+void PrimeFactors3(int x){
+    for(int i=2;i*i<=x;i++){
+        if(x%i==0){
+            int power = 0;
+            while(x%i==0){
+                power++;
+                x = x/i;
+            }
+            cout<<i<<"^"<< power<<" X ";
+        }
+    }
+    if(x>1)cout<<x<<"^"<<1<<endl;
+}
+
 int main()
 {
    seive();
